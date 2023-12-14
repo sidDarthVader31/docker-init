@@ -1,0 +1,5 @@
+.vsCode
+.DS_Store
+tmux*
+*.log
+nvim*
